@@ -24,5 +24,5 @@ B. User (Audience)
    3. Pesan Tiket
    4. Log Out
 
-FLOWCHART SIMPLE CINEMA TICKET BOOKING APPLICATION
-![Flowchart_Capstone-MAIN() drawio](https://github.com/user-attachments/assets/746adde4-06c7-403c-a66d-dd055121bbf8)
+## FLOWCHART SIMPLE CINEMA TICKET BOOKING APPLICATION
+![Aimar_Flowchart_Capstone1-MAIN drawio](https://github.com/user-attachments/assets/ef3f3d0f-ec1b-4980-ab00-d31f2ff11a38)
