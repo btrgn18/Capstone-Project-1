@@ -23,3 +23,6 @@ B. User (Audience)
    2. Lihat Daftar Film
    3. Pesan Tiket
    4. Log Out
+
+FLOWCHART SIMPLE CINEMA TICKET BOOKING APPLICATION
+![Flowchart_Capstone-MAIN() drawio](https://github.com/user-attachments/assets/746adde4-06c7-403c-a66d-dd055121bbf8)
